@@ -1,4 +1,4 @@
-# Système de Gestion de Salle de Sport (Gym Management System)
+# Système de Gestion de Salle de Sport
 
 ## 📋 Description
 Un système de gestion complet pour les salles de sport, développé en C# avec une interface graphique Windows Forms. Ce système permet de gérer efficacement les membres, le personnel et l'équipement d'une salle de sport.
@@ -76,7 +76,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 Ce projet est sous licence [MIT](LICENSE)
 
 ## 👨‍💻 Auteur
-[Akram-Hamdi]
+Akram-Hamdi
 
 ## 📞 Support
 Pour toute question ou problème, veuillez ouvrir une issue dans le repository GitHub. 
